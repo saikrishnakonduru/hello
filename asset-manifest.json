@@ -1,13 +1,13 @@
 {
-  "main.css": "/saikrishnakonduru/SaiKrishnaKonduru/static/css/main.c16548db.chunk.css",
-  "main.js": "/saikrishnakonduru/SaiKrishnaKonduru/static/js/main.767c094f.chunk.js",
-  "main.js.map": "/saikrishnakonduru/SaiKrishnaKonduru/static/js/main.767c094f.chunk.js.map",
-  "runtime~main.js": "/saikrishnakonduru/SaiKrishnaKonduru/static/js/runtime~main.47492842.js",
-  "runtime~main.js.map": "/saikrishnakonduru/SaiKrishnaKonduru/static/js/runtime~main.47492842.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/saikrishnakonduru/SaiKrishnaKonduru/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/saikrishnakonduru/SaiKrishnaKonduru/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/saikrishnakonduru/SaiKrishnaKonduru/index.html",
-  "precache-manifest.1594ca4c839f8a74ad517ac00da6d40a.js": "/saikrishnakonduru/SaiKrishnaKonduru/precache-manifest.1594ca4c839f8a74ad517ac00da6d40a.js",
-  "service-worker.js": "/saikrishnakonduru/SaiKrishnaKonduru/service-worker.js",
-  "static/css/main.c16548db.chunk.css.map": "/saikrishnakonduru/SaiKrishnaKonduru/static/css/main.c16548db.chunk.css.map"
+  "main.css": "/saikrishnakonduru/hello/static/css/main.c16548db.chunk.css",
+  "main.js": "/saikrishnakonduru/hello/static/js/main.901833c4.chunk.js",
+  "main.js.map": "/saikrishnakonduru/hello/static/js/main.901833c4.chunk.js.map",
+  "runtime~main.js": "/saikrishnakonduru/hello/static/js/runtime~main.b8ab0b47.js",
+  "runtime~main.js.map": "/saikrishnakonduru/hello/static/js/runtime~main.b8ab0b47.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/saikrishnakonduru/hello/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/saikrishnakonduru/hello/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/saikrishnakonduru/hello/index.html",
+  "precache-manifest.ca5b6102cf979009ddf96977e0c038ce.js": "/saikrishnakonduru/hello/precache-manifest.ca5b6102cf979009ddf96977e0c038ce.js",
+  "service-worker.js": "/saikrishnakonduru/hello/service-worker.js",
+  "static/css/main.c16548db.chunk.css.map": "/saikrishnakonduru/hello/static/css/main.c16548db.chunk.css.map"
 }
